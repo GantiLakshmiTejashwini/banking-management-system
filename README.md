@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Banking Maagement System
+# Banking Management System
 
 A console based Banking Management System built using Python and SQLite
 
